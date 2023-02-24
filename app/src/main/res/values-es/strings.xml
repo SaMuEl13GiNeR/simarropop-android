@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Simarropop</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="user">Usuario</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="signup">Registrarse</string>
+    <string name="login">Entrar</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellidos</string>
+    <string name="location">Direccion</string>
+    <string name="articles">Artículos</string>
+    <string name="myarticles">Mis artículos</string>
+    <string name="message">Mensajes</string>
+    <string name="profile">Perfil</string>
+    <string name="login_prompt">Inicio de sesión</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="submit">Enviar</string>
+    <string name="price">Precio</string>
+    <string name="mail">Correo</string>
+    <string name="passwordconfirm">Confirmar contraseña</string>
+    <string name="back">Atrás</string>
+    <string name="new_product">Subir</string>
+    <string name="description">Descripción</string>
+    <string name="buy">Comprar</string>
+    <string name="save">Guardar</string>
+    <string name="backup">Recuperar</string>
+
+
+
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Cerrar navigation drawer</string>
+    <string name="title_click">Click Titulo</string>
+    <string name="menu_camera">Camara</string>
+    <string name="menu_gallery">Galería</string>
+    <string name="menu_tools">Herramientas</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Enviar</string>
+    <string name="menu_group">Otros</string>
+
+
+</resources>
